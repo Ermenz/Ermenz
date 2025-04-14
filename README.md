@@ -28,6 +28,15 @@
 
 ---
 
+
+
+<a href="https://www.linkedin.com/in/erick-menezes-b91a461a2/" target="_blank">Linkedin</a>
+
+
+
+
+
+
 ### 📍 Localização
 📌 Brasil – sempre conectado 🌐  
 🛠️ Curioso, criativo e focado em tecnologia!
