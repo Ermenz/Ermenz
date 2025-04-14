@@ -31,6 +31,8 @@
 
 
 <a href="https://www.linkedin.com/in/erick-menezes-b91a461a2/" target="_blank">Linkedin</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/erick-menezes-b91a461a2/)
+
 
 
 
