@@ -1,6 +1,6 @@
 # Ermenz-dev
 
-<h1 align="center">Olá, eu sou o Erick 👋</h1>
+<h1 align="center">Olá, eu sou Erick 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Estudante+de+ADS+e+Engenharia" alt="Typing SVG" />
