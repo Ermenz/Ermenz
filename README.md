@@ -8,7 +8,7 @@
 
 ---
 
-🎓 Atualmente estudo **Análise e Desenvolvimento de Sistemas** e **Engenharia Mecânica**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando **Engenharia Mecânica**  
 💻 Jovem aprendiz na área de TI na **Amaranzero**  
 🌱 Aprendendo **python**, **Flask**, **Java**, **C** e **front-end**
 
