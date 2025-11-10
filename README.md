@@ -40,7 +40,7 @@
 
 
 ### 📍 Localização
-📌 Brasil – sempre conectado 🌐  
+📌 Brasil
 🛠️ Curioso, criativo e focado em tecnologia!
 
 ---
