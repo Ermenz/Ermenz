@@ -41,6 +41,7 @@
 
 ### 📍 Localização
 📌 Brasil
+
 🛠️ Curioso, criativo e focado em tecnologia!
 
 ---
