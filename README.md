@@ -8,7 +8,7 @@
 
 ---
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando **Engenharia Mecânica**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando **Ciências da computação**  
 💻 Estagiário na área de TI na **Amaranzero**  
 🌱 Aprendendo **python**, **Flask**, **Java**, **C** e **front-end**
 
